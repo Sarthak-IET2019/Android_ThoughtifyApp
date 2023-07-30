@@ -1,6 +1,6 @@
 # Android_ThoughtifyApp
 
-Introducing Thoughify: Your Gateway to Random Thoughts
+I**ntroducing Thoughify**: Your Gateway to Random Thoughts
 
 Step into a world of inspiration, contemplation, and creativity with Thoughify - the ultimate Android app designed to generate a plethora of random thoughts at your fingertips. Whether you're seeking a moment of reflection, a burst of imagination, or simply a source of inspiration, Thoughify has got you covered.
 
