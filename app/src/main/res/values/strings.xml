@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Quotes_APP</string>
     <string name="quotify">QUOTIFY</string>
+    <string name="thoughtify">THOUGHTIFY</string>
 </resources>
